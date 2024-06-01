@@ -8,6 +8,6 @@ N/A
 
 ## Credits
 Starter code provider: Georgeyoo
-Source: https://github.com/coding-boot-camp/urban-octo-telegram
+https://github.com/coding-boot-camp/urban-octo-telegram
 ## License
 Please refer to the LICENSE in the repo.
