@@ -8,6 +8,7 @@ body {
     background-color: #d9dcd6;
 }
 
+/* Name of element header has changed from html file to match class="header" */
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -24,6 +25,7 @@ body {
     color: #d9dcd6;
 }
 
+/* Changed "header div" to "header nav" to match html file */
 .header nav {
     padding-top: 15px;
     margin-right: 20px;
@@ -116,6 +118,7 @@ p {
     text-align: center;
 }
 
+/* Added height: 150px for last three images */
 .benefit-lead img {
     display: block;
     margin: 10px auto;
@@ -164,18 +167,16 @@ p {
     color: #ffffff;
 }
 
+/* First three images: changed from max-hight:200px to height: 200px */
 .search-engine-optimization img {
-    max-height: 200px;
     height: 200px;
 }
 
 .online-reputation-management img {
-    max-height: 200px;
     height: 200px;
 }
 
 .social-media-marketing img {
-    max-height: 200px;
     height: 200px;
 }
 
@@ -194,6 +195,7 @@ p {
     font-size: 36px;
 }
 
+/* Name of element footer has changed from html file to match class="footer"*/
 .footer {
     padding: 30px;
     clear: both;
